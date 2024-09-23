@@ -54,7 +54,7 @@
 
 ## 주요 기능
 
-## API 명세
+## 이슈 트래킹
+![image](https://github.com/user-attachments/assets/24504b2c-4a4d-455e-b354-b10649ec910d)
 
-## 디렉토리 구조
 

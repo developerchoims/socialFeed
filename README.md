@@ -12,14 +12,14 @@
 2024.08.20 - 2024.08.26
 
 ## 팀 구성 및 역할
-|이름|역할|gitHub|
-|------|---|---|
-|김아리|회원 가입|https://github.com/lielocks|
-|김유진|게시물 공유|https://github.com/TirTir|
-|윤채영|게시물 목록 조회|https://github.com/ae-chae|
-|임채민|게시물 상세 조회|https://github.com/cmleem|
-|최미선|jwt|https://github.com/developerchoims|
-|최서경|통계|https://github.com/stringbuckwheat|
+|이름|역할|
+|------|---|
+|000|회원 가입|
+|000|게시물 공유|
+|000|게시물 목록 조회|
+|000|게시물 상세 조회|
+|최미선|JWT Token 인증|
+|000|통계|
 
 ## ERD
 ![image](https://github.com/user-attachments/assets/83479aee-5754-468e-932b-877c60074641)
@@ -58,5 +58,3 @@
 
 ## 디렉토리 구조
 
-## 컨벤션
-[코딩 컨벤션] https://github.com/PreOnboarding-Team-11/socialFeed/wiki/%E2%9C%85-Github-Convention

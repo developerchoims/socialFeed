@@ -50,9 +50,12 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
 
 
-## 요구 사항
-
 ## 주요 기능
+- Access Token은 Cookie에 저장
+- Refresh Token은 Redis에 저장
+- Access Token이 만료될 경우 프론트에 401반환
+- 프론트에서 Refresh Token을 이용한 Access Token 재발급 요청
+- 서버에서 인증 후 재발급 혹은 재로그인 요구
 
 ## 이슈 트래킹
 ![image](https://github.com/user-attachments/assets/24504b2c-4a4d-455e-b354-b10649ec910d)
